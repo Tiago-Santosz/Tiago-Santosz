@@ -1,4 +1,4 @@
-## Olá sou o Tiago Santos, Estudante de Engenharia de Software!
+## Olá sou o Tiago Santos, Graduando de Engenharia de Software!
 
 
  👨‍💻 Estou aprendendo e aprimorando meu conhecimento nas seguintes liguagens:
