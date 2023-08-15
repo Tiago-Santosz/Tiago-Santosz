@@ -18,7 +18,7 @@
   
    <img align="center" alt="Tiago-HTML" height="40" width="40" src="https://icongr.am/devicon/html5-original.svg?size=80&color=currentColor.svg">
    
-   <img align="center" alt="Tiago-CSS" height="40" width="40" src="https://icongr.am/devicon/css3-original.svg?size=80&color=currentColor.svg">
+   <img align="center" alt="Tiago-CSS" height="40" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=80&color=currentColor.svg">
 
 
 
