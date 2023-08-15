@@ -12,7 +12,7 @@
   
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=80&color=currentColor.svg">
    
-  <img align="center" alt="Rafa-React" height="40" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=80&color=currentColor.svg">
+  <img align="center" alt="Rafa-React" height="40" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=90&color=currentColor.svg">
   
   
  
