@@ -1,7 +1,7 @@
 ## Olá sou o Tiago Santos, Graduando de Engenharia de Software!
 
 
- 👨‍💻 Estou aprendendo e aprimorando meu conhecimento nas seguintes liguagens:
+ 👨‍💻 Desenvolvedor Full-Stack aprimorando meu conhecimento nas seguintes liguagens:
 
 
   
