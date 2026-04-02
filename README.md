@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Tiago Santos!
 
-🎓 Graduando em **Engenharia de Software** – atualmente no **6º semestre**, apaixonado por tecnologia, desenvolvimento web e soluções inteligentes.
+🎓 Graduando em **Engenharia de Software** – atualmente no **7º semestre**, apaixonado por tecnologia, desenvolvimento web e soluções inteligentes.
 
 💻 Atuo como **Desenvolvedor Full-Stack**, com foco em construir aplicações escaláveis, performáticas e de alto impacto. Busco sempre aprimorar minhas habilidades e acompanhar as tendências do mercado.
 
