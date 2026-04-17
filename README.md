@@ -8,36 +8,20 @@
 
 ### 🚀 Tecnologias e ferramentas que utilizo no dia a dia:
 
-<div style="display: inline_block">
-
-  <img align="center" alt="Java" height="40" width="40" src="https://icongr.am/devicon/java-original.svg?size=80&color=currentColor">
-
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=80&color=currentColor">
-
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=80&color=currentColor">
-
-  <img align="center" alt="Python" height="40" width="40" src="https://icongr.am/devicon/python-original.svg?size=80&color=currentColor">
-
-  <img align="center" alt="NestJS" height="40" width="40" src="https://nestjs.com/img/logo-small.svg" />
-
-  <img align="center" alt="SpringBoot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-
-  <img align="center" alt="React" height="40" width="40" src="https://icongr.am/devicon/react-original.svg?size=80&color=currentColor">
-
-  <img align="center" alt="Angular" height="40" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=80&color=currentColor">
-
-  <img align="center" alt="HTML5" height="40" width="40" src="https://icongr.am/devicon/html5-original.svg?size=80&color=currentColor">
-
-  <img align="center" alt="CSS3" height="40" width="40" src="https://icongr.am/devicon/css3-original.svg?size=80&color=currentColor">
-
-  <img align="center" alt="Flask" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" />
-
-  <img align="center" alt="MySQL" height="40" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=80&color=currentColor">
-
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=80&color=currentColor">
-
-  <img align="center" alt="Docker" height="40" width="40" src="https://icongr.am/devicon/docker-original.svg?size=80&color=currentColor">
-
-  <img align="center" alt="Git" height="40" width="40" src="https://icongr.am/devicon/git-original.svg?size=80&color=currentColor">
-
-</div>
+<p align="left">
+  <img src="https://icongr.am/devicon/java-original.svg?size=80&color=currentColor" alt="Java" height="40" width="40" />
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=80&color=currentColor" alt="JavaScript" height="40" width="40" />
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=80&color=currentColor" alt="TypeScript" height="40" width="40" />
+  <img src="https://icongr.am/devicon/python-original.svg?size=80&color=currentColor" alt="Python" height="40" width="40" />
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SpringBoot" height="40" width="40" />
+  <img src="https://icongr.am/devicon/react-original.svg?size=80&color=currentColor" alt="React" height="40" width="40" />
+  <img src="https://icongr.am/devicon/angularjs-original.svg?size=80&color=currentColor" alt="Angular" height="40" width="40" />
+  <img src="https://icongr.am/devicon/html5-original.svg?size=80&color=currentColor" alt="HTML5" height="40" width="40" />
+  <img src="https://icongr.am/devicon/css3-original.svg?size=80&color=currentColor" alt="CSS3" height="40" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" height="40" width="40" />
+  <img src="https://icongr.am/devicon/mysql-original.svg?size=80&color=currentColor" alt="MySQL" height="40" width="40" />
+  <img src="https://icongr.am/devicon/postgresql-original.svg?size=80&color=currentColor" alt="PostgreSQL" height="40" width="40" />
+  <img src="https://icongr.am/devicon/docker-original.svg?size=80&color=currentColor" alt="Docker" height="40" width="40" />
+  <img src="https://icongr.am/devicon/git-original.svg?size=80&color=currentColor" alt="Git" height="40" width="40" />
+</p>
