@@ -8,8 +8,7 @@
 
 ### 🚀 Tecnologias e ferramentas que utilizo no dia a dia:
 
-<div style="display: inline_block"><br>
-
+<div style="display: inline-block">
   <img align="center" alt="Java" height="40" width="40" src="https://icongr.am/devicon/java-original.svg?size=80&color=currentColor">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=80&color=currentColor">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=80&color=currentColor">
@@ -25,13 +24,4 @@
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=80&color=currentColor">
   <img align="center" alt="Docker" height="40" width="40" src="https://icongr.am/devicon/docker-original.svg?size=80&color=currentColor">
   <img align="center" alt="Git" height="40" width="40" src="https://icongr.am/devicon/git-original.svg?size=80&color=currentColor">
-
 </div>
-  
-
-
-
-  
-  
- 
-
