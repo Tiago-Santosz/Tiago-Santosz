@@ -6,9 +6,7 @@
 
 ---
 
-### 🚀 Tecnologias e ferramentas que utilizo no dia a dia:
-
-<p align="left">
+<!-- <p align="left">
   <img src="https://icongr.am/devicon/java-original.svg?size=80&color=currentColor" alt="Java" height="40" width="40" />
   <img src="https://icongr.am/devicon/javascript-original.svg?size=80&color=currentColor" alt="JavaScript" height="40" width="40" />
   <img src="https://icongr.am/devicon/typescript-original.svg?size=80&color=currentColor" alt="TypeScript" height="40" width="40" />
@@ -24,4 +22,4 @@
   <img src="https://icongr.am/devicon/postgresql-original.svg?size=80&color=currentColor" alt="PostgreSQL" height="40" width="40" />
   <img src="https://icongr.am/devicon/docker-original.svg?size=80&color=currentColor" alt="Docker" height="40" width="40" />
   <img src="https://icongr.am/devicon/git-original.svg?size=80&color=currentColor" alt="Git" height="40" width="40" />
-</p>
+</p> -->
